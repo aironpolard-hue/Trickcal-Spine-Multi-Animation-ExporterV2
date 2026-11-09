@@ -1,0 +1,149 @@
+自定义非商业、相同方式共享许可协议及法律免责声明
+CUSTOM NON-COMMERCIAL, SHARE-ALIKE LICENSE & LEGAL DISCLAIMER
+
+版权所有 (c) 2026 [aironpolard-hue]
+Copyright (c) 2026 [aironpolard-hue]
+
+特此免费授予任何获得本软件及相关文档文件（以下简称“软件”）副本的人使用、
+复制、修改、合并、发布及分发本软件的许可，但须严格遵守下列条款、条件和
+免责声明：
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use, 
+copy, modify, merge, publish, and distribute the Software, strictly subject 
+to the following terms, conditions, and disclaimers:
+
+语言与解释：本协议以中文和英文双语提供。若中英文版本存在歧义、差异或解释
+不一致，以中文版本为准。
+
+LANGUAGE AND INTERPRETATION: This license is provided in Chinese and English.
+In the event of any ambiguity, discrepancy, or inconsistency in interpretation
+between the two versions, the Chinese version shall prevail.
+
+==============================================================================
+SECTION 1: LICENSE CONDITIONS (授权与使用条件)
+==============================================================================
+
+1. NON-COMMERCIAL USE ONLY (严格禁止商用与盈利)
+   本软件及其任何衍生作品、修改版本或编译后的二进制文件，不得以任何形式用于
+   商业目的、获取金钱收益或提供付费服务。该限制包括但不限于：销售本软件、
+   与付费产品捆绑提供、将功能置于付费墙后、收取订阅费、通过直播变现、付费
+   游戏代刷或商业运营活动。
+
+   The Software and any derivative works, modifications, or compiled binaries 
+   may NOT be used for commercial purposes, monetary gain, or paid services in 
+   any form. This restriction includes, but is not limited to: selling the software, 
+   bundling it with paid products, paywalling features, charging subscription fees, 
+   monetized live-streaming, paid game-farming, or commercial operational activities.
+
+2. SHARE-ALIKE & MANDATORY OPEN SOURCE (修改后强制相同方式开源)
+   如果您修改、转换、重写本软件，或基于本软件进行创作，必须按照与本协议完全
+   相同的许可条款，公开发布并分发您修改后的全部源代码及贡献内容。严禁对任何
+   衍生作品进行闭源再分发、采用专有许可，或实施代码混淆。
+
+   If you modify, transform, rewrite, or build upon the Software, you MUST release 
+   and distribute your entire modified source code and contributions publicly under 
+   this exact same license terms. Closed-source redistribution, proprietary licensing, 
+   or obfuscation of any derivative work is strictly prohibited.
+
+3. ATTRIBUTION (保留原作者署名与出处)
+   在本软件及任何衍生项目的所有副本或实质性部分中，必须显著保留上述版权声明、
+   本许可声明及原项目仓库链接。
+
+   The above copyright notice, this permission notice, and the original project 
+   repository link must be prominently included in all copies or substantial 
+   portions of the Software and any derivative projects.
+
+==============================================================================
+SECTION 2: REVERSE ENGINEERING & INTELLECTUAL PROPERTY (逆向与版权声明)
+==============================================================================
+
+4. EDUCATIONAL & STUDY PURPOSE ONLY (纯粹学习与非盈利声明)
+   本项目严格出于个人学习、学术研究及软件逆向工程研究目的开展并发布。作者
+   未曾且今后亦不会销售本软件、通过本软件变现或将其商业化。底层软件架构、
+   算法或逻辑的部分或全部内容可能源于对原游戏的反编译或分析。所有商标、
+   版权、美术素材及知识产权均专属于相应的原游戏开发商或发行商。
+
+   This project is conducted and published strictly for personal learning, academic 
+   study, and software reverse engineering research. The author has not engaged, 
+   and will never engage, in selling, monetizing, or commercializing this software. 
+   Part or all of the underlying software architecture, algorithms, or logic may 
+   have originated from decompiling or analyzing the original game. All trademarks, 
+   copyrights, art assets, and intellectual property belong exclusively to the 
+   respective original game developer/publisher.
+
+5. NOTICE AND TAKEDOWN POLICY (版权方联系与下架承诺)
+   作者充分尊重原权利人的知识产权。如果原游戏开发商、发行商或合法权利人认为
+   本仓库的任何部分侵犯其合法权益，请通过以下邮箱联系作者。
+
+   收到经核实的权利人通知后，作者将及时且善意地移除、修改或下架有争议的
+   代码、资源或整个仓库，以消除争议。
+
+   The author fully respects the intellectual property rights of the original 
+   copyright holders. If the original game developer, publisher, or legal rights 
+   holder considers that any part of this repository infringes upon their legitimate 
+   rights, please contact the author via email:
+   
+   联系邮箱 / Contact Email: [aironpolard@gmail.com]
+   
+   Upon receiving verified notice from the copyright holder, the author will 
+   promptly remove, modify, or take down the disputed code, resources, or the 
+   entire repository in good faith to eliminate any dispute.
+
+==============================================================================
+SECTION 3: LIABILITY & RISK ASSUMPTION (第三方责任与风险自担)
+==============================================================================
+
+6. THIRD-PARTY DISPUTES & USER ASSUMPTION OF RISK (使用者风险自担与作者免责)
+   下载、修改、编译、运行或再分发本软件，即表示您（使用者或下游开发者）明确
+   知悉并承担与潜在版权主张、服务条款（ToS）违规或反作弊处置相关的全部风险。
+
+   如果您或您的衍生项目被原游戏开发商、发行商或执法机关联系、起诉、警告，
+   或遭遇 DMCA 下架、禁令、账号封禁或经济处罚，您须独自承担相应的全部
+   法律责任和经济责任。
+
+   对于因您再次使用、修改或分发本代码而引起的任何争议、损失或后果，本仓库
+   原作者在任何情况下均不承担责任，亦不承担任何连带或次要法律责任。
+
+   By downloading, modifying, compiling, running, or redistributing this Software, 
+   YOU (THE USER/DOWNSTREAM DEVELOPER) EXPRESSLY ACKNOWLEDGE AND ASSUME ALL RISKS 
+   associated with potential copyright claims, Terms of Service (ToS) violations, 
+   or anti-cheat actions.
+   
+   If you or your derivative projects are contacted, sued, warned, or subjected 
+   to DMCA takedowns, injunctions, account bans, or financial penalties by the 
+   original game developer, publisher, or law enforcement, YOU SHALL BEAR SOLE 
+   LEGAL AND FINANCIAL RESPONSIBILITY. 
+   
+   IN NO EVENT SHALL THE ORIGINAL AUTHOR OF THIS REPOSITORY BE LIABLE OR HOLD 
+   ANY JOINT/SECONDARY LEGAL RESPONSIBILITY FOR ANY DISPUTES, LOSSES, OR 
+   CONSEQUENCES ARISING FROM YOUR RE-USE, MODIFICATION, OR DISTRIBUTION OF THIS CODE.
+
+7. GENERAL DISCLAIMER OF WARRANTY (常规责任限制)
+   本软件按“现状”提供，不提供任何明示或默示的担保，包括但不限于适销性、
+   特定用途适用性及不侵权担保。在任何情况下，作者均不对因本软件、使用本软件
+   或与本软件有关的其他行为而产生、源于上述事项或与上述事项相关的任何索赔、
+   损害或其他责任承担责任，无论其依据是合同、侵权还是其他法律事由。
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+   FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+   AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN 
+   ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION 
+   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+==============================================================================
+SECTION 4: AI-ASSISTED DEVELOPMENT DISCLOSURE (AI 辅助制作声明)
+==============================================================================
+
+8. AI-ASSISTED DEVELOPMENT (AI 辅助开发与文档编写)
+   本项目由作者使用人工智能（AI）工具辅助制作，包括代码与文档的编写和修改，
+   部分内容包含 AI 生成或辅助生成的成果。本声明用于说明制作方式，不改变上述
+   授权条件，也不改变第三方权利人对相关代码、素材及其他内容享有的权利。
+
+   The author used artificial intelligence (AI) tools to assist in creating this
+   project, including writing and modifying code and documentation. Portions of
+   the Software may therefore contain AI-generated or AI-assisted content.
+   This disclosure describes the development process and does not change the
+   license conditions above or the rights of third-party rights holders.
+

@@ -1,0 +1,49 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+*.pyd
+.venv/
+.python311/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# PyInstaller and native build output
+build/
+build-*/
+dist/
+dist-*/
+release/
+native/out/
+native/obj*/
+*.pdb
+*.pyz
+*.pkg
+
+# Local output, logs and temporary files
+export-output/
+shots/
+test-output/
+*.log
+*.tmp
+*.bak
+
+# Local IDE and operating-system files
+.idea/
+.vscode/
+*.code-workspace
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.local
+*.secret
+*.secrets
+
+# Windows shortcuts are machine-specific
+*.lnk

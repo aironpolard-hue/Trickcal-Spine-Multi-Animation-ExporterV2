@@ -1,0 +1,38 @@
+Spine Studio - Third-Party Notices
+
+This file lists notable third-party components included in or used by this
+repository. Each component remains subject to its own license. Nothing in this
+file changes those license terms.
+
+1. Spine Runtime
+
+The repository includes Spine Runtime source code under:
+
+    native/spine-runtimes-4.1/
+
+It also includes compiled Spine Runtime libraries under:
+
+    lib/
+
+See LICENSE-SPINE.txt for the applicable Spine Runtime license and copyright
+notice. Review the Spine Editor licensing requirements before redistributing
+software that integrates or derives from the Spine Runtime.
+
+2. Ren'Py Spine integration
+
+Some native integration code is distributed under the license in:
+
+    LICENSE-renpy-spine.txt
+
+3. Bundled runtime assets
+
+The assets/ directory contains third-party or externally sourced runtime files,
+including FFmpeg, Gifsicle/gifdiff, and a font. These files are not original
+Spine Studio source code. Their respective copyright and redistribution terms
+must be checked and preserved when distributing binaries or source archives.
+
+4. Python dependencies
+
+Runtime Python dependencies are declared in requirements.txt. PySide6,
+NumPy, Pillow, PyOpenGL, UnityPy, and their transitive dependencies retain
+their respective upstream licenses.
